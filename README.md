@@ -2,7 +2,7 @@
   <img src="https://i.gifer.com/1AaD.gif" width="200"/>
 </div>
 
-<h1 align="center">Hi there, I'm Marina Skumina. Junior Data Analyst from Belarus </a> 
+<h1 align="center"> Привет, я Марина Скумина Junior Data Analyst </a> 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/marinaskumina/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,8 +13,18 @@
   <img src="https://komarev.com/ghpvc/?username=MarinaSkumina&style=flat-square&color=blue" alt=""/>
 </div>
 
-### :woman_technologist: About Me :
+### :woman_technologist: Обо мне :
 
+Я  Junior Data Analyst 	 :love_letter: из Беларуси.
+
+- :eyes: Занимаюсь EDA и парсингом сайтов 
+
+- :deciduous_tree: Интересуюсь машинным обучением.
+
+- :muscle: Прокачиваюсь в направлении Big Data, изучаю Pyspark
+
+
+### :hammer_and_wrench: Языки программирования и инструменты :
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -23,7 +33,7 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-## ? Контакты
+## Контакты
 - Email: maragnchr@gmail.com
 - Telegram: @maragnchr
 
