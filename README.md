@@ -1,7 +1,20 @@
+<div id="header" align="center">
+  <img src="https://i.gifer.com/1AaD.gif" width="200"/>
+</div>
 
-<h1 align="center">Hi there, I'm Marina</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Junior Data Analyst from Belarus</h3>
+<h1 align="center">Hi there, I'm Marina Skumina. Junior Data Analyst from Belarus </a> 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/marinaskumina/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+<div id="badges_2" align="center">  
+  <img src="https://komarev.com/ghpvc/?username=MarinaSkumina&style=flat-square&color=blue" alt=""/>
+</div>
+
+### :woman_technologist: About Me :
+
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -10,7 +23,11 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MarinaSkumina)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## ? Контакты
+- Email: maragnchr@gmail.com
+- Telegram: @maragnchr
+
+
 <!--
 **MarinaSkumina/MarinaSkumina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
